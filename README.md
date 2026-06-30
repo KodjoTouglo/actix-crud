@@ -5,9 +5,9 @@ Cargo workspace split into focused crates (server, services, store, models, secu
 
 ## Stack
 
-- **actix-web** — HTTP server
-- **deadpool-postgres** — Postgres connection pool
-- **Prometheus** — metrics
+- **actix-web** : HTTP server
+- **deadpool-postgres** : Postgres connection pool
+- **Prometheus** : metrics
 
 ## Layout
 
