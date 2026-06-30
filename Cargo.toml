@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "src/server",
+    "src/store",
+    "src/services",
+    "src/models",
+    "src/utils",
+    "src/security",
+    "src/commons"
+]
